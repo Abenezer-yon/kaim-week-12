@@ -1,4 +1,0 @@
-json
-pandas
-telethon
-dotenv
