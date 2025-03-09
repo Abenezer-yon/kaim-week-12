@@ -1,0 +1,4 @@
+json
+pandas
+telethon
+dotenv
