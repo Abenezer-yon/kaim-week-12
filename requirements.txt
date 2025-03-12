@@ -1,4 +1,11 @@
 json
+numpy
 pandas
 telethon
 dotenv
+transformers
+datasets
+torch
+torchvision
+torchaudio
+--extra-index-url https://download.pytorch.org/whl/cu113
