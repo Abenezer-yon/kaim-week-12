@@ -1,8 +1,4 @@
+json
 pandas
-numpy
-matplotlib
-seaborn
-wordcloud
-textblob
-scikit-learn
-plotly
+telethon
+dotenv
